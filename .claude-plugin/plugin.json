@@ -1,0 +1,11 @@
+{
+  "name": "schababerle-skills",
+  "version": "1.0.0",
+  "description": "Patrick Schababerle's agent skills. better-grill-me is based on mattpocock/skills (grilling).",
+  "author": {
+    "name": "Patrick Schababerle",
+    "url": "https://schababerle.digital"
+  },
+  "repository": "https://github.com/patrickschababerle/skills",
+  "license": "MIT"
+}
