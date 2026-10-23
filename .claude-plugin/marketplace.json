@@ -1,0 +1,15 @@
+{
+  "name": "schababerle",
+  "owner": {
+    "name": "Patrick Schababerle",
+    "url": "https://schababerle.digital"
+  },
+  "plugins": [
+    {
+      "name": "schababerle-skills",
+      "source": "./",
+      "description": "Patrick Schababerle's agent skills, including better-grill-me.",
+      "category": "productivity"
+    }
+  ]
+}
