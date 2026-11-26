@@ -1,7 +1,7 @@
 ---
 name: better-grill-me
 description: A relentless interview to sharpen a plan, decision, or idea, asked round by round through the AskUserQuestion tool instead of prose. Use when the user wants to stress-test their thinking.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 Interview the user relentlessly until you reach a shared understanding. Map this as a **design tree**: every decision branches into the decisions that hang off it.
